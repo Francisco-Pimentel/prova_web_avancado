@@ -28,5 +28,7 @@
 
 //npx ts-node -e "const bcrypt = require('bcrypt'); bcrypt.hash('password123', 10).then(console.log)"
 
+# Todas as dependencias estão no package.json.
+
 
 
